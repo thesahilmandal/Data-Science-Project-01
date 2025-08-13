@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Data-Science-Project-01/mlruns/0/483f66aaa8c945b1af85b537097d4309/artifacts
+end_time: 1755072356213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 483f66aaa8c945b1af85b537097d4309
+run_name: clean-mare-138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755072356180
+status: 3
+tags: []
+user_id: codespace

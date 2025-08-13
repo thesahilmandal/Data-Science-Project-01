@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Data-Science-Project-01/mlruns/0/463101fbaf1642f1989f78cd81031739/artifacts
+end_time: 1755072360084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 463101fbaf1642f1989f78cd81031739
+run_name: victorious-gull-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755072360048
+status: 3
+tags: []
+user_id: codespace
