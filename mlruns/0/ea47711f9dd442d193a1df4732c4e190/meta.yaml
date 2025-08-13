@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Data-Science-Project-01/mlruns/0/ea47711f9dd442d193a1df4732c4e190/artifacts
+end_time: 1755072895244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea47711f9dd442d193a1df4732c4e190
+run_name: chill-stag-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755072895196
+status: 3
+tags: []
+user_id: codespace
