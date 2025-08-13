@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Data-Science-Project-01/mlruns/0/080a00be18284bdaba8d1a136af211f3/artifacts
+end_time: 1755069913492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 080a00be18284bdaba8d1a136af211f3
+run_name: unruly-horse-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755069913468
+status: 3
+tags: []
+user_id: codespace
